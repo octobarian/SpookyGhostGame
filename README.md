@@ -1,5 +1,6 @@
 # SpookyGhostGame
 ![Ghost Game Development](https://d2f8l4t0zpiyim.cloudfront.net/000_clients/1167902/page/cat-ue4-680x300-303282.jpg)
+
 Spooky ghost game is the codename for the development project to create and learn Unreal Engine development.
 the basic idea of the game is that up to 4 players are being hunted by a ghost in some environment (School, Hospital, etc) and have to escape while the ghost hunts them
 Players win by finding clues about the ghost and using the clues to weaken the ghost and unlock the ability to escape.
